@@ -10,7 +10,7 @@ email: "pakaki@example.com"
 instagram: "https://www.instagram.com/pakaki.balanceboard/"
 
 # Site config
-baseurl: ""
+baseurl: "/pakaki"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
