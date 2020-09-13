@@ -10,7 +10,7 @@ project:
   title: "Simetrica 2.0"
   type: "Jekyll"
   url: "#"
-  logo: "/assets/images/projects/simetrica/logo.png"
+  logo: "/assets/images/projects/simetrica/simetrica_logo.png"
   tech: "Multiplaca de abedul"
 
 agency:
