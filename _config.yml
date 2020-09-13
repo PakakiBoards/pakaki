@@ -1,15 +1,16 @@
 # User config
-author: "Delirium Design"
-tagline: "Pakaki Balance Boards"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
+author: "Pakaki 🌶️"
+tagline: "Pakaki - Tablas de balance"
+description: "Juego libre | Entrenamiento funcional | Madera 🌳 | Pakaki = 🌶️ (según Mati)"
 keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+email: "pakaki@example.com"
+# linkedin: "https://www.linkedin.com/"
+# twitter: "https://twitter.com/"
+# github: "https://github.com/"
+instagram: "https://www.instagram.com/pakaki.balanceboard/"
 
 # Site config
-baseurl: "/pakaki"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
